@@ -22,4 +22,5 @@ regiões e ajudar aplicativos de GPS a traçarem melhores rotas.
 - Criação da API utilizando recursos de JSON-Server
   Foi criado um arquivo json chamado db.json que armazenou informações dos nossos itens na navbar. Após instalar e
   iniciar o JSON-Server nós podemos acessar ou modificar esses dados por meio dessa API utilizando o localhost:3001/dados. Além de
-  adicionar essas inforamações no nosso App.jsx: (<Route path="/dados" element={<DadosComponentes />} />)
+  adicionar essas inforamações no nosso App.jsx: (<Route path="/dados" element={<DadosComponentes />} />). Também hospedamos o site
+  no Netlify. Pode acessar por meio desse link: https://dynamic-starlight-5ec460.netlify.app/
